@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagramme_d_activites_UML_1", "Diagramme_d_activites_UML_1.csproj", "{879CA7BC-C4B4-4585-8AB4-5DA0A4C85009}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{879CA7BC-C4B4-4585-8AB4-5DA0A4C85009}.Debug.ActiveCfg = Debug|.NET
+		{879CA7BC-C4B4-4585-8AB4-5DA0A4C85009}.Debug.Build.0 = Debug|.NET
+		{879CA7BC-C4B4-4585-8AB4-5DA0A4C85009}.Release.ActiveCfg = Release|.NET
+		{879CA7BC-C4B4-4585-8AB4-5DA0A4C85009}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
